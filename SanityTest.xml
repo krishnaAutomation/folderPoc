@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ExtentSuite" parallel="false">
+
+    <test name="createFolder">
+		<classes>
+			<class name="folder.fol" />
+		</classes>
+	</test>
+ 
+		
+</suite> <!-- Suite -->
